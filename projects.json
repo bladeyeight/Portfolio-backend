@@ -6,6 +6,24 @@
       "image": "https://camo.githubusercontent.com/61d22083e5ce18862acdc84ebba16bee0b7b1fdaeeb360ac75deb37cceeadaef/68747470733a2f2f692e696d6775722e636f6d2f6b474a6c6b75412e706e67"
     },
     {
+      "name": "C-Calculator",
+      "live": "https://ccalculator.netlify.app/",
+      "git": "https://github.com/bladeyeight/C-alculator-frontend",
+      "image": "https://imgur.com/TSP1zW7"
+    },
+    {
+      "name": "Bud",
+      "live": "https://bud-buget.netlify.app/",
+      "git": "https://github.com/bladeyeight/bud-backend",
+      "image": "https://camo.githubusercontent.com/ce21747d7561c86d696a6b0dbfdfe207a7a3b6534752114e45d35e480c1b22fb/68747470733a2f2f7472656c6c6f2e636f6d2f312f63617264732f3631383335376334663137323136303431626664383439302f6174746163686d656e74732f3631383533326637316661393136333832313033616131362f646f776e6c6f61642f6275642e504e47"
+    },
+    {
+      "name": "Gameplan",
+      "live": "https://gameplanorganizer.netlify.app",
+      "git": "https://github.com/bladeyeight/gameplan-frontend",
+      "image": "https://imgur.com/FEEnvsa"
+    },
+    {
       "name": "HyperBean Digital Storefront",
       "live": "https://sam-project2.herokuapp.com/hyperBean",
       "git": "https://github.com/bladeyeight/sam-project2",
